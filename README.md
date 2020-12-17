@@ -10,6 +10,7 @@ Before submitting data to the server, it is important to ensure that the user ha
 - Dynamically inserting classes with JS
 
 # Preview will go here when tutorial is completed:
+[Form Validation Screencap](https://raw.githubusercontent.com/mdurst365/form_validation/main/Capture.JPG)
 
 # Link to Tutorial
 https://www.youtube.com/watch?v=rsd4FNGTRBw&ab_channel=FlorinPop
